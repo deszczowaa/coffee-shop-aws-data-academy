@@ -24,7 +24,7 @@ The data pipeline was created with the use of Amazon Web Services.
 Executes the start of the pipeline
 * on schedule - once every day / week / month
 * on files being uploaded to Amazon S3 bucket
-### [Step Functions](./step_functions/states.asl.json)
+### [Step Functions](./step_functions/)
 Defines the steps to be followed during execution of the pipeline.
 
 ### Amazon S3
