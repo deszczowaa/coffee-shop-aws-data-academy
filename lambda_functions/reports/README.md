@@ -4,5 +4,5 @@ The exemplary reports.
 ![customer](/docs-files/customer-report.png)
 
 ## Sales Report
-![sales](/docs-files/sales-report.png)
+![sales](/docs-files/sales-reports.png)
 
